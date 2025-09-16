@@ -101,7 +101,6 @@ CSV dataset (mobile data from Flipkart)
 
 GitHub (project documentation & version control)
 
-👨‍💻 Author
 
 👨‍💻 Author
 Prachee A. Meshram
